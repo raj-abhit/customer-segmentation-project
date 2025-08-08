@@ -79,6 +79,8 @@ Streamlit-based interactive dashboard for real-time analysis
 # 📂 Files & Structure
 segmentation.py: Main application file with clustering and Streamlit code
 
+customer_segmentation.ipynb: Data Analysis and Machine Learning code
+
 customer_data.csv: Dataset used for clustering
 
 model.pkl: Saved KMeans model and preprocessing pipeline
