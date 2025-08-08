@@ -81,7 +81,7 @@ segmentation.py: Main application file with clustering and Streamlit code
 
 customer_data.csv: Dataset used for clustering
 
-model.pkl: Saved KMeans model and preprocessing pipeline (if available)
+model.pkl: Saved KMeans model and preprocessing pipeline
 
 README.md: Project overview and usage guide
 
